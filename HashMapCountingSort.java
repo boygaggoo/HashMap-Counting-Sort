@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BarSort {
+public class HashMapCountingSort {
 
     /**
      * Sorts integer values by adding them to a
@@ -34,7 +34,7 @@ public class BarSort {
 
 
         ///////////
-        //BarSort//
+        //HashMapSort//
         ///////////
 
         int min = arrayValues[0], max = arrayValues[0];
